@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Avansert Javaprogrammering",
+    "shortName": "PGR200",
+    "enrolled": 65,
+    "lecturers": [
+      {
+        "name": "Felicjan Pawłowski"
+      },
+      {
+        "name": "Praskovya Pokrovskaya"
+      }
+    ]
+  },
+  {
+    "name": "Algoritmer og datastrukturer",
+    "shortName": "PG4200",
+    "enrolled": 79,
+    "lecturers": []
+  },
+  {
+    "name": "Software Design",
+    "shortName": "PG3300",
+    "enrolled": 97,
+    "lecturers": [{
+      "name": "Nisrin 'Ismah Maroun"
+    }]
+  }
+]

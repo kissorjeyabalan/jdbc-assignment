@@ -1,0 +1,52 @@
+[
+  {
+    "capacity": 48,
+    "name": "310",
+    "campus": "Fjerdingen"
+  },
+  {
+    "capacity": 250,
+    "name": "101",
+    "campus": "Fjerdingen"
+  },
+  {
+    "capacity": 50,
+    "name": "301",
+    "campus": "Fjerdingen"
+  },
+  {
+    "capacity": 50,
+    "name": "304",
+    "campus": "Fjerdingen"
+  },
+  {
+    "capacity": 50,
+    "name": "308",
+    "campus": "Fjerdingen"
+  },
+  {
+    "capacity": 50,
+    "name": "309",
+    "campus": "Fjerdingen"
+  },
+  {
+    "capacity": 50,
+    "name": "303",
+    "campus": "Fjerdingen"
+  },
+  {
+    "capacity": 50,
+    "name": "302",
+    "campus": "Fjerdingen"
+  },
+  {
+    "capacity": 50,
+    "name": "305",
+    "campus": "Fjerdingen"
+  },
+  {
+    "capacity": 50,
+    "name": "401",
+    "campus": "Fjerdingen"
+  }
+]

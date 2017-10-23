@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Felicjan Pawłowski",
+    "contact": [
+      {
+        "number":555123123,
+        "email":"pl@jaworska.com"
+      },
+      {
+        "number":555543234,
+        "email":"FelicjanPawlowski@fepaw.pl"
+      }
+    ],
+    "available": [
+      {
+        "start":10,
+        "end":12
+      },
+      {
+        "start":14,
+        "end":16
+      }
+    ]
+  },
+  {
+    "name": "Praskovya Pokrovskaya",
+    "contact": [
+      {
+        "number":55523423,
+        "email":"pkrovskaya@klxmn.com"
+      },
+      {
+        "number":555434343,
+        "email":"pokropras@pkrov.com"
+      }
+    ],
+    "available": [
+      {
+        "start":14,
+        "end":16
+      },
+      {
+        "start":18,
+        "end":20
+      }
+    ]
+  },
+  {
+    "name": "Nisrin 'Ismah Maroun",
+    "contact": [
+      {
+        "number":43213412,
+        "email":"nisrin@pkrov.com"
+      },
+      {
+        "number":555434343,
+        "email":"marounnisrin@fepaw.pl"
+      }
+    ],
+    "available": [
+      {
+        "start":14,
+        "end":16
+      },
+      {
+        "start":18,
+        "end":20
+      }
+    ]
+  }
+]
